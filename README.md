@@ -1,2 +1,2 @@
 # E-Farming-System
-web application using CodeIgniter Framework
+Web application using CodeIgniter Framework
